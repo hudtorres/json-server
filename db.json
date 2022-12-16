@@ -1,0 +1,55 @@
+{
+    "semana1": [
+      {
+        "id": 1,
+        "dia": "segunda-feira ",
+        "exercicios": "cardio"
+      },
+  
+      {
+        "id": 2,
+        "dia": "quarta-feira",
+        "exercicios": "peitoral"
+      },
+  
+      {
+        "id": 3,
+        "dia": "sexta-feira",
+        "exercicios": "gluteo"
+      }
+  
+    ],
+    
+    "semana2": [
+      {
+        "id": 1,
+        "dia": "terça-feira ",
+        "exercicios": "perna"
+      },
+  
+      {
+        "id": 2,
+        "dia": "quinta-feira",
+        "exercicios": "costas"
+      }
+    ],
+  
+  
+  
+  "semana3": [
+    {
+      "id": 1,
+      "dia": "sabado",
+      "exercicios": "corrida"
+    },
+  
+    {
+      "id": 2,
+      "dia": "domingo",
+      "exercicios": "croos"
+    }
+  ]
+  
+  }
+  
+  
